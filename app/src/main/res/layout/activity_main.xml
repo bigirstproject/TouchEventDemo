@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
 <!--<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:layout_width="match_parent"--><!--android:layout_height="match_parent"--><!--android:id="@+id/linearlayout"--><!--android:orientation="vertical">-->
 
 <!--<com.sunsun.toucheventdemo.MyTestView--><!--android:id="@+id/textview"--><!--android:layout_width="match_parent"--><!--android:layout_height="200dip"--><!--android:layout_gravity="center"--><!--android:background="#ff00ffff"--><!--android:gravity="center"--><!--android:text="MyTestView" />--><!--</FrameLayout>-->
@@ -8,12 +7,6 @@
     android:id="@+id/linearlayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-=======
-<com.sunsun.toucheventdemo.MyLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:id="@+id/linearlayout"
->>>>>>> 0a7fdb62c95796f070574c9259e86ae8a7f357c5
     android:orientation="vertical">
 
     <com.sunsun.toucheventdemo.MyTestView
@@ -24,10 +17,5 @@
         android:background="#ff00ffff"
         android:gravity="center"
         android:text="MyTestView" />
-<<<<<<< HEAD
 
 </com.sunsun.toucheventdemo.MyLinearLayout>
-=======
-</com.sunsun.toucheventdemo.MyLinearLayout>
-
->>>>>>> 0a7fdb62c95796f070574c9259e86ae8a7f357c5
